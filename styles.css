@@ -1,0 +1,74 @@
+.artwork {
+  display: block;
+  width: 719px;
+}
+
+.logo {
+  position: absolute;
+  top: 37px;
+  right: 530px;
+  height: 43px;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+h1 {
+  color: #E7E9EA;
+  font-family: 'Archivo', sans-serif;
+  position: absolute;
+  top: 95px;
+  right: 40px;
+  font-size: 75px;
+  letter-spacing: -0.8px;
+}
+
+h2 {
+  color: #E7E9EA;
+  font-family: 'Archivo', sans-serif;
+  position: absolute;
+  top: 250px;
+  right: 294px;
+  font-size: 35px;
+  letter-spacing: -0.8px;
+}
+
+.signup {
+  position: absolute;
+  border: 0ch;
+  top: 335px;
+  right: 273px;
+  height: 183px;
+  cursor: pointer;
+}
+
+p {
+  color: #434649;
+  font-family: 'Archivo', sans-serif;
+  position: absolute;
+  top: 509px;
+  right: 284px;
+  font-size: 10.5px;
+}
+
+h3 {
+  color: #E7E9EA;
+  font-family: 'Archivo', sans-serif;
+  position: absolute;
+  top: 580px;
+  right: 350px;
+  font-size: 20px;
+  letter-spacing: -0.8px;
+}
+
+.signin {
+  position: absolute;
+  border: 0ch;
+  top: 640px;
+  right: 273px;
+  height: 49px;
+  cursor: pointer;
+}
